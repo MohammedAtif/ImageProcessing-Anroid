@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageProcessing</string>
+    <string name="edited_image_preview">Edited Image Preview</string>
+</resources>
